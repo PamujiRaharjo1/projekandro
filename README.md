@@ -1,4 +1,4 @@
-# projekandro
+# Storyboard
 
 |Nama|NIM|Kelas|Matkul|
 |----|---|-----|------|
